@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
+*.log
+
+# Environment files
+.env
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
